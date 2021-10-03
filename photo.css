@@ -1,0 +1,17 @@
+.main-conti{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.photo-title{
+    font-size:15px;
+    text-align:center;
+    border:1px solid #dddddd;
+    background-color:#e8e8e8;
+    margin:15px 0px 15px 15px;
+    padding:5px;
+}
+
+.poto_imges{
+    text-align: center;
+}
